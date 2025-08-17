@@ -188,10 +188,6 @@ If you find this project useful or have any feedback, please consider leaving a 
 
 [Give a Star](https://github.com/AmanSharma/Python_ATM_Interface/stargazers)
 
----
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
@@ -208,4 +204,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ----
 ----
+
 
